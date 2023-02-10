@@ -3,6 +3,8 @@
  Little things that help me use linux. Also for my own future reference.
 
 
+
+
 ## Enable Autoscroll on Chromium/Electron Apps
 
 Add this to the command line argument while opening a program (like brave, discord, etc). [Credits and details](https://medium.com/@1nikolas/linux-enable-middle-mouse-button-scrolling-on-chrome-ium-and-electron-apps-discord-etc-ab2d0a213505).
