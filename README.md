@@ -14,7 +14,7 @@ Add this to the command line argument while opening a program (like brave, disco
 
 ## Custom Keyboard Layout
 
-Set up and use [kmonad](https://github.com/kmonad/kmonad). You can also set it up to have 'layers' on your keyborad which is very handy.
+Set up and use [kmonad](https://github.com/kmonad/kmonad). You can also set it up to have 'layers' on your keyboard which is very handy.
 
 
 ## Ditch Nautilus
