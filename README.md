@@ -31,5 +31,11 @@ Though it still doesn't set it as default for when you open a file manager throu
 
 Using `touchegg`. It may be pre-installed on you OS and you can just configure the config file (potentially located at `~/.config/touchegg/touchegg.conf`) with the help of [touchegg's documentation](https://github.com/JoseExposito/touchegg). Or more easily using this GUI app for touchegg called [Touché](https://github.com/JoseExposito/touchegg).
 
+## Media Control Shortcuts 
+
+Depending on your distro, the play/pause shortcut might not work how you expect (say, only controlling one program and not the last used one. This was the case with me on Linux Mint 21.1).
+
+You can use `playerctl` and [set up the daemon](https://wiki.archlinux.org/title/MPRIS#Control_utilities) and custom shortcut for `playerctl play-pause` command to control media flawlessly. This ofcourse also works for previous, next or whatever. 
+
 ## ???
 
